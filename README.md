@@ -8,5 +8,6 @@
 ## Support and contact details
 {Am currently doing programming incase of any arising issues please contact me using the following email:margaret13mwangi@gmail.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+Lincesed under the [MIT License](LICENSE)
 Copyright (c) {year} **{List of contributors or company name}**
