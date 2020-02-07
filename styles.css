@@ -8,7 +8,7 @@ li{
     font-size: 40px;
 }
 .navbar{
-    background-color: orangered
+    background-color: orange;
     padding-top: 20px;
   padding-bottom: 3px;
   position: fixed;
@@ -27,5 +27,8 @@ img{
 }
 #profile{
     height:500px;
-    width:300px;
+    width:500px;
+}
+img{
+    float: right
 }
