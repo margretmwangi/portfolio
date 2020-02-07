@@ -1,0 +1,27 @@
+
+li{
+    list-style: none;
+    text-align: center;
+    display: inline-flex;
+    margin-right:110px;
+    padding-right: 40px;
+    font-size: 40px;
+}
+.navbar{
+    background-color: orangered
+    padding-top: 20px;
+  padding-bottom: 3px;
+  position: fixed;
+}
+h1{
+    color: darkblue;
+    font-size: 29px;
+    font-style: italic;
+}
+.navbar a:hover{
+    color: white;
+    background-color: cadetblue
+}
+img{
+    width: 100%;
+}
